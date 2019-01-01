@@ -15,17 +15,17 @@
 
 .form button {
     border-radius: 15px;
-    background-color: rgb(0, 153, 255);
-    border: 1px solid rgb(0, 153, 255);
-    color: white;
+    background-color: greenyellow;
+    border: 1px solid  rgba(14, 14, 53);
+    color: rgba(14, 14, 53);
     cursor: pointer;
     font-weight: bold;
 }
 
 .form button:hover {
-    background-color: rgb(226, 194, 9);
-    color: black;
-    border: 1px solid rgb(226, 194, 9);
+    background-color: rgb(118, 177, 31);
+    color: rgba(14, 14, 53);
+    border: 1px solid  rgba(14, 14, 53);
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
